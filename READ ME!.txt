@@ -1,0 +1,13 @@
+Database (datashareits.bak) digunakan pada file mhs_dsn.py
+List tabel datashareits.bak (Nama DB : datashareits) :
+- dbo.Dosen
+- dbo.Mahasiswa
+- dbo.LAUsers
+
+Database (db_shareits.bak) digunakan pada file pattern.py
+List tabel db_shareits.bak (Nama DB : db_final) :
+- dbo.Dosen
+- dbo.MHS
+- dbo.Login
+- dbo.jam_mhs
+- dbo.jam_dsn
